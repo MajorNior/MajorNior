@@ -26,4 +26,3 @@
   
 </div>
 
-  ![Snake animation](https://github.com/MajorNior/MajorNior/blob/output/github-contribution-grid-snake.svg)
