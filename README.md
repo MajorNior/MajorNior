@@ -1,7 +1,8 @@
 ##Ola! Sou Leonardo Carvalho 👋
 
-- 🔭 hoje trabalho com Analise de Sistemas.
-- 🌱 Estudando JavaScript | TypeScript | Nodejs | React
+- 📎 hoje trabalho com Analise de Sistemas.
+- 📒 Estudando JavaScript | TypeScript | Nodejs | React
+- ✉️ Contato: Leonardomajornior@gmail.com
 
 <div align="center">
   <a href="https://github.com/MajorNior">
