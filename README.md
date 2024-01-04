@@ -1,7 +1,7 @@
 ##Ola! Sou Leonardo Carvalho 👋
 
-- 📎 hoje trabalho com Analise de Sistemas.
-- 📒 Estudando JavaScript | TypeScript | Nodejs | React
+- 📎 hoje trabalho como Programador PHP.
+- 📒 Estudando PHP | JavaScript | NodeJS
 - ✉️ Contato: Leonardomajornior@gmail.com
 
 <div align="center">
